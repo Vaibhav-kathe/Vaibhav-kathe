@@ -1,55 +1,113 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Hi, I'm Vaibhav Kathe
+   Vaibhav Kathe
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open-Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C3F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open-Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/vaibhavkathe1030/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/vaibhav-kathe" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <a href="mailto:vaibhavkathe1030@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
-  </a>
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhavkathe1030/)
+  [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhav-kathe)
+  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/yourprofile/)
+  [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/yourprofile)
+  
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=14&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+profile!;Let's+build+something+amazing+together" alt="Welcome message" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
 </div>
-
-<br/>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-kathe&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /> 
-  <img src="https://img.shields.io/github/followers/vaibhav-kathe?label=Followers&style=flat&color=0e75b6" alt="GitHub followers"/>
-  <img src="https://img.shields.io/github/stars/vaibhav-kathe?label=Stars&style=flat&color=0e75b6" alt="GitHub stars"/>
-</p>
 
 ---
 
-### 🚀 About Me
+## 🔥 Skills & Expertise
 
-```javascript
-const vaibhav = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "HTML/CSS", "Java", "C++"],
-  tools: ["React", "Node.js", "Git", "VS Code", "Figma"],
-  architecture: ["microservices", "responsive design"],
-  hobbies: ["Open Source", "Coding Challenges", "Tech Blogs"],
-  currentFocus: "Building awesome web experiences",
-  funFact: "I can solve a Rubik's cube in under 2 minutes"
-};
+<div align="center">
+  
+### � Languages
+  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### 🖥 Frontend
+  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🛠 Tools & Technologies
+  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav-kathe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kathe&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+  
+  <br/>
+  
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-kathe&theme=radical&hide_border=true" alt="vaibhav-kathe" />
+  
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  
+  ![trophy](https://github-profile-trophy.vercel.app/?username=vaibhav-kathe&theme=radical&no-frame=true&row=1&margin-w=15&margin-h=15)
+  
+</div>
+
+---
+
+## 🔥 Recent Activity
+
+<!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1] in [vaibhav-kathe/repository] 
+2. 🚀 Published release v1.0.0 in [vaibhav-kathe/project]
+3. 💪 Opened PR [#2] in [organization/repo]
+4. 🛠 Fixed bug in [project-name]
+5. 📚 Updated documentation
+<!--END_SECTION:activity-->
+
+---
+
+## 🎯 Currently Working On
+
+<div align="center">
+  
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-kathe&repo=project-name&theme=radical)](https://github.com/vaibhav-kathe/project-name)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/vaibhav-kathe/vaibhav-kathe/blob/output/github-contribution-grid-snake.svg)
+  
+  <img src="https://komarev.com/ghpvc/?username=vaibhav-kathe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kathe" /> 
+  
+</div>
