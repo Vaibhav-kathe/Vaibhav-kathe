@@ -74,13 +74,11 @@
 
 ## 🔥 Recent Activity
 
-<!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1] in [vaibhav-kathe/repository] 
 2. 🚀 Published release v1.0.0 in [vaibhav-kathe/project]
 3. 💪 Opened PR [#2] in [organization/repo]
 4. 🛠 Fixed bug in [project-name]
 5. 📚 Updated documentation
-<!--END_SECTION:activity-->
 
 ---
 
