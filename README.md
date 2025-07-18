@@ -81,21 +81,3 @@
 5. 📚 Updated documentation
 
 ---
-
-## 🎯 Currently Working On
-
-<div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vaibhav-kathe&repo=project-name&theme=radical)](https://github.com/vaibhav-kathe/project-name)
-  
-</div>
-
----
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/vaibhav-kathe/vaibhav-kathe/blob/output/github-contribution-grid-snake.svg)
-  
-  <img src="https://komarev.com/ghpvc/?username=vaibhav-kathe&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav-kathe" /> 
-  
-</div>
