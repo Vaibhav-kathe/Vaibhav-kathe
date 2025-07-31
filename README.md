@@ -74,6 +74,5 @@
 3. 💪 Opened PR [#2] in [organization/repo]
 4. 🛠 Fixed bug in [project-name]
 5. 📚 Updated documentation
-6. 
 
 ---
