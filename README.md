@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C3F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open-Source+Contributor;Problem+Solver;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=22C3F7&center=true&vCenter=true&width=500&lines=Frontend+Developer;Open-Source+Contributor;Problem+Solver" alt="Typing SVG" />
 </h3>
 
 <div align="center">
