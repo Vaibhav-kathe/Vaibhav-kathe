@@ -11,11 +11,6 @@
 
 ## 🧠 Skills & Expertise<h1 align="center">Hey there! 👋 I'm Vaibhav Kathe</h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
-</div>
-
----
 
 ## 🚀 About Me
 
