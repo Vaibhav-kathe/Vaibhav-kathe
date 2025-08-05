@@ -60,9 +60,6 @@
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=vaibhav-kathe&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
-
-
 ---
 
 ## 📝 Latest Activity
