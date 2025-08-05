@@ -1,8 +1,4 @@
 <h1 align="center">Hey there! 👋 I'm Vaibhav Kathe</h1>
-  
-
-
-## 🧠 Skills & Expertise<h1 align="center">Hey there! 👋 I'm Vaibhav Kathe</h1>
 
 
 ## 🚀 About Me
