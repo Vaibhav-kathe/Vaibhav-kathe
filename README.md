@@ -70,8 +70,6 @@
 - 🛠 Fixed bug in `project-name`  
 - 📚 Updated documentation
 
-> _(Want to automate this section? Use [GitHub Activity Readme](https://github.com/Readme-Workflows/recent-activity))_
-
 ---
 
 ## 🌐 Connect With Me
