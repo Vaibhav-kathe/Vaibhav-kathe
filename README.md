@@ -119,8 +119,7 @@
 ---
 
 ## 📈 GitHub Stats
-
-<div align="center">
+a
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vaibhav-kathe&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav-kathe&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
@@ -130,6 +129,7 @@
 ---
 
 ## 🔄 Recent Activity
+<div align="left">
 
 - 🎉 Merged PR [#1] in **vaibhav-kathe/repository**  
 - 🚀 Published release `v1.0.0` in **vaibhav-kathe/project**  
