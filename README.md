@@ -1,13 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Vaibhav Kathe</h1>
   
 
-## 🚀 About Me
-
-🎯 Passionate about building full-stack applications with clean, scalable code. <br/>
-💡 Always exploring new technologies and improving problem-solving skills.<br/>
-👨‍💻 Constantly learning and contributing to open-source projects.<br/>
-
----
 
 ## 🧠 Skills & Expertise<h1 align="center">Hey there! 👋 I'm Vaibhav Kathe</h1>
 
