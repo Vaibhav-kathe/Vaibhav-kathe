@@ -62,11 +62,6 @@
 
 <img src="https://streak-stats.demolab.com/?user=vaibhav-kathe&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
 
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=vaibhav-kathe&theme=radical&no-frame=true&column=7" />
-
-</div>
 
 ---
 
